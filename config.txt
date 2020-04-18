@@ -1,0 +1,6 @@
+4 number of player
+10 wage amount
+2 tax square
+10 tax amount (percent)
+1000 start money
+1 go to jail square
